@@ -1,15 +1,15 @@
 {
     "header": {
-        "server": "Global Server(EN)",
-        "en-US": "English",
-        "ja-JP": "Japenese",
-        "zh-CN": "Simpilified Chinese",
-        "zh-TW": "Traditional Chinese",
-        "ko-KR": "Korean",
-        "warp": "Warp to Story..."
+        "server": "Server",
+        "en_US": "EN",
+        "ja_JP": "JP",
+        "zh_CN": "CN",
+        "zh_TW": "TW",
+        "ko_KR": "KR",
+        "warp": "Warp to Story...",
+        "openInGoogleTL": "Open in Google Translate"
     },
-    "menupage": {
-        "homepage": "Homepage",
+    "eventType":{
         "main": "Main Theme",
         "maintheme": "Maintheme",
         "intermezzi": "Intermezzi",
@@ -17,12 +17,25 @@
         "sidestory": "Sidestory",
         "mini": "Story Collection",
         "storyset": "Storyset",
+        "or": "Records"
+    },
+    "menupage": {
+        "homepage": "Homepage",
+        "main": "@:eventType.main",
+        "maintheme": "@:eventType.maintheme",
+        "intermezzi": "@:eventType.intermezzi",
+        "ss": "@:eventType.ss",
+        "sidestory": "@:eventType.sidestory",
+        "mini": "@:eventType.mini",
+        "storyset": "@:eventType.storyset",
         "operator_data": "Operators' Data",
-        "archive": "Archive",
-        "module": "Module",
-        "or": "Records",
         "search": "Search",
         "misc": "Misc"
+    },
+    "opcard":{
+        "archive": "Archive",
+        "module": "Module",
+        "or": "Records"
     },
     "settings": {
         "setting": "Settings",
@@ -47,6 +60,8 @@
         "startTime": "Start Time",
         "timeasc": "Time Ascending",
         "timedesc": "Time Descending",
+        "length": "@:wordCount.length",
+        "unit": "@:wordCount.unit",
         "openInGoogleTL": "Open in Google Translate"
     },
     "contentpage": {
