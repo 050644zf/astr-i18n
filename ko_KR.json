@@ -1,0 +1,71 @@
+{
+    "header": {
+        "server": "한국 서버(KR)",
+        "warp": "스토리로 이동..."
+    },
+    "menupage": {
+        "homepage": "홈페이지",
+        "main": "메인",
+        "maintheme": "메인",
+        "intermezzi": "에피소드",
+        "ss": "사이드",
+        "sidestory": "사이드",
+        "mini": "미니 스토리",
+        "storyset": "미니 스토리",
+        "operator_data": "오퍼레이터 정보",
+        "archive": "오퍼레이터 아카이브",
+        "module": "오퍼레이터 모듈",
+        "or": "오퍼레이터 파일",
+        "search": "검색",
+        "misc": "기타"
+    },
+    "settings": {
+        "setting": "설정",
+        "currentLang": "현재 언어",
+        "clear": "모든 설정 초기화",
+        "dr": "박사의 이름",
+        "showDelay": "공백 구분선 표시",
+        "mirror": "미러 리소스 사용(Beta)",
+        "showbg": "배경 표시",
+        "bg_full": "Full",
+        "bg_stripe": "Stripe",
+        "bg_off": "Off",
+        "fontsize": "글꼴 크기",
+        "margin": "행 간격",
+        "save": "설정 적용"
+    },
+    "eventpage": {
+        "menu": "메뉴",
+        "export2excel": "엑셀로 내보내기",
+        "showIntro": "개략 표시",
+        "openInNew": "새 탭에서 열기",
+        "startTime": "시작 시간",
+        "timeasc": "시간 오름차순",
+        "timedesc": "시간 내림차순",
+        "openInGoogleTL": "Google 번역에서 열기"
+    },
+    "contentpage": {
+        "optionTraceDisabled": "기술적인 문제로 인해 이 스토리에서 오퍼레이터 추적 기능을 사용할 수 없습니다",
+        "copied": "이 줄의 링크가 복사되었습니다!"
+    },
+    "wordCount": {
+        "wordCount": " 개 단어 ",
+        "charCount": " 자 ",
+        "length": "길이 ",
+        "unit": " 단위 "
+    },
+    "isrecords": {
+        "loadDialog": "이야기 불러오기",
+        "unfold": "펴기",
+        "fold": "접기"
+    },
+    "misc": {
+        "extra": "Extra/Hidden Chapters",
+        "analysis": "Word/Char Count of Chapters",
+        "stats": "Arknights Journey Review (CN Server Only)",
+        "isrecords": "Integrated Strategies Monthly Records",
+        "act17side_log": "Stultifera Navis Operation Log",
+        "act25side_log": "Lone Trail Investigation Report",
+        "annual_report": "Arknights Annual Report (CN Server Only)"
+    }
+}

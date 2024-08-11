@@ -1,0 +1,71 @@
+{
+    "header": {
+        "server": "繁中服(TW)",
+        "warp": "跳轉到故事..."
+    },
+    "menupage": {
+        "homepage": "首頁",
+        "main": "主题曲",
+        "maintheme": "主题曲",
+        "intermezzi": "插曲",
+        "ss": "别传",
+        "sidestory": "别传",
+        "mini": "故事集",
+        "storyset": "故事集",
+        "operator_data": "干员资料",
+        "archive": "干员档案",
+        "module": "干员模组",
+        "or": "幹員密錄",
+        "search": "搜索",
+        "misc": "其他"
+    },
+    "settings": {
+        "setting": "设置",
+        "currentLang": "UI語言",
+        "clear": "重置所有设置",
+        "dr": "博士稱呼",
+        "showDelay": "顯示空白分割行",
+        "mirror": "使用鏡像資源(Beta)",
+        "showbg": "顯示背景",
+        "bg_full": "完整",
+        "bg_stripe": "條形",
+        "bg_off": "關閉",
+        "fontsize": "字體大小",
+        "margin": "行距",
+        "save": "应用设置"
+    },
+    "eventpage": {
+        "menu": "目錄",
+        "export2excel": "導出Excel",
+        "showIntro": "顯示簡介",
+        "openInNew": "在新標籤頁中打開",
+        "startTime": "開始時間",
+        "timeasc": "時間升序",
+        "timedesc": "時間降序",
+        "openInGoogleTL": "在谷歌翻譯中打開"
+    },
+    "contentpage": {
+        "optionTraceDisabled": "由於技術問題，選項跟踪在該故事已被禁用",
+        "copied": "已複製該行鏈接！"
+    },
+    "wordCount": {
+        "wordCount": " 詞",
+        "charCount": " 字",
+        "length": "長度",
+        "unit": " 單位"
+    },
+    "isrecords": {
+        "loadDialog": "加載對話",
+        "unfold": "展開",
+        "fold": "折疊"
+    },
+    "misc": {
+        "extra": "其他/隱藏章節",
+        "analysis": "字數/詞數統計",
+        "stats": "明日方舟特別回顧（僅支持CN服）",
+        "isrecords": "集成戰略月度記錄",
+        "act17side_log": "愚人號行動日誌",
+        "act25side_log": "孤星調查報告",
+        "annual_report": "明日方舟年度工作報告（僅支持CN服）"
+    }
+}

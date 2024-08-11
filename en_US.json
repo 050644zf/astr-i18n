@@ -1,0 +1,71 @@
+{
+    "header": {
+        "server": "Global Server(EN)",
+        "warp": "Warp to Story..."
+    },
+    "menupage": {
+        "homepage": "Homepage",
+        "main": "Main Theme",
+        "maintheme": "Maintheme",
+        "intermezzi": "Intermezzi",
+        "ss": "Side Story",
+        "sidestory": "Sidestory",
+        "mini": "Story Collection",
+        "storyset": "Storyset",
+        "operator_data": "Operators' Data",
+        "archive": "Archive",
+        "module": "Module",
+        "or": "Records",
+        "search": "Search",
+        "misc": "Misc"
+    },
+    "settings": {
+        "setting": "Settings",
+        "currentLang": "UI Language",
+        "clear": "Reset All Settings",
+        "dr": "Doctor's Name",
+        "showDelay": "Show Blank Seperation Line",
+        "mirror": "Use Mirror Resources(Beta)",
+        "showbg": "Show Background",
+        "bg_full": "Full",
+        "bg_stripe": "Stripe",
+        "bg_off": "Off",
+        "fontsize": "Font Size",
+        "margin": "Line Spacing",
+        "save": "Apply Setting"
+    },
+    "eventpage": {
+        "menu": "Menu",
+        "export2excel": "Export to Excel",
+        "showIntro": "Show Intro",
+        "openInNew": "Open in New Tab",
+        "startTime": "Start Time",
+        "timeasc": "Time Ascending",
+        "timedesc": "Time Descending",
+        "openInGoogleTL": "Open in Google Translate"
+    },
+    "contentpage": {
+        "optionTraceDisabled": "Option Tracing Feature is disabled in this story due to technical issues.",
+        "copied": "The link of this line has been copied!"
+    },
+    "wordCount": {
+        "wordCount": " Words ",
+        "charCount": " Characters ",
+        "length": "Length ",
+        "unit": " Unit "
+    },
+    "isrecords": {
+        "loadDialog": "Load Dialog",
+        "unfold": "Unfold",
+        "fold": "Fold"
+    },
+    "misc": {
+        "extra": "Extra/Hidden Chapters",
+        "analysis": "Word/Char Count of Chapters",
+        "stats": "Arknights Journey Review (CN Server Only)",
+        "isrecords": "Integrated Strategies Monthly Records",
+        "act17side_log": "Stultifera Navis Operation Log",
+        "act25side_log": "Lone Trail Investigation Report",
+        "annual_report": "Arknights Annual Report (CN Server Only)"
+    }
+}
