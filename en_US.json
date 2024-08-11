@@ -1,6 +1,11 @@
 {
     "header": {
         "server": "Global Server(EN)",
+        "en-US": "English",
+        "ja-JP": "Japenese",
+        "zh-CN": "Simpilified Chinese",
+        "zh-TW": "Traditional Chinese",
+        "ko-KR": "Korean",
         "warp": "Warp to Story..."
     },
     "menupage": {
