@@ -3,8 +3,7 @@
         "server": "サーバー",
         "warp": "ストーリーに移動..."
     },
-    "menupage": {
-        "homepage": "ホーム",
+    "eventType":{
         "main": "メインテーマ",
         "maintheme": "メインテーマ",
         "intermezzi": "エピソード",
@@ -12,12 +11,25 @@
         "sidestory": "公共事業実録",
         "mini": "特殊行動記録",
         "storyset": "特殊行動記録",
+        "or": "回想秘録"
+    },
+    "menupage": {
+        "homepage": "ホーム",
+        "main": "@:eventType.main",
+        "maintheme": "@:eventType.maintheme",
+        "intermezzi": "@:eventType.intermezzi",
+        "ss": "@:eventType.ss",
+        "sidestory": "@:eventType.sidestory",
+        "mini": "@:eventType.mini",
+        "storyset": "@:eventType.storyset",
         "operator_data": "オペレーター情報",
-        "archive": "オペレーター档案",
-        "module": "オペレーターモジュール",
-        "or": "回想秘録",
         "search": "検索",
         "misc": "その他"
+    },
+    "opcard":{
+        "archive": "オペレーター档案",
+        "module": "オペレーターモジュール",
+        "or": "回想秘録"
     },
     "settings": {
         "setting": "設定",
@@ -60,12 +72,5 @@
         "fold": "たたむ"
     },
     "misc": {
-        "extra": "Extra/Hidden Chapters",
-        "analysis": "Word/Char Count of Chapters",
-        "stats": "Arknights Journey Review (CN Server Only)",
-        "isrecords": "Integrated Strategies Monthly Records",
-        "act17side_log": "Stultifera Navis Operation Log",
-        "act25side_log": "Lone Trail Investigation Report",
-        "annual_report": "Arknights Annual Report (CN Server Only)"
     }
 }

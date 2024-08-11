@@ -3,8 +3,7 @@
         "server": "서버",
         "warp": "스토리로 이동..."
     },
-    "menupage": {
-        "homepage": "홈페이지",
+    "eventType": {
         "main": "메인",
         "maintheme": "메인",
         "intermezzi": "에피소드",
@@ -12,12 +11,25 @@
         "sidestory": "사이드",
         "mini": "미니 스토리",
         "storyset": "미니 스토리",
-        "operator_data": "오퍼레이터 정보",
-        "archive": "오퍼레이터 아카이브",
-        "module": "오퍼레이터 모듈",
+        "or": "오퍼레이터 파일"
+    },
+    "menupage": {
+        "homepage": "홈페이지",
+        "main": "@:eventType.main",
+        "maintheme": "@:eventType.maintheme",
+        "intermezzi": "@:eventType.intermezzi",
+        "ss": "@:eventType.ss",
+        "sidestory": "@:eventType.sidestory",
+        "mini": "@:eventType.mini",
+        "storyset": "@:eventType.storyset",
         "or": "오퍼레이터 파일",
         "search": "검색",
         "misc": "기타"
+    },
+    "opcard": {
+        "archive": "오퍼레이터 아카이브",
+        "module": "오퍼레이터 모듈",
+        "or": "오퍼레이터 파일"
     },
     "settings": {
         "setting": "설정",

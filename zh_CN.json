@@ -8,8 +8,7 @@
         "ja-JP": "日语",
         "zh-CN": "简体中文"
     },
-    "menupage": {
-        "homepage": "首页",
+    "eventType": {
         "main": "主题曲",
         "maintheme": "主题曲",
         "intermezzi": "插曲",
@@ -17,12 +16,25 @@
         "sidestory": "别传",
         "mini": "故事集",
         "storyset": "故事集",
+        "or": "干员密录"
+    },
+    "menupage": {
+        "homepage": "首页",
+        "main": "@:eventType.main",
+        "maintheme": "@:eventType.maintheme",
+        "intermezzi": "@:eventType.intermezzi",
+        "ss": "@:eventType.ss",
+        "sidestory": "@:eventType.sidestory",
+        "mini": "@:eventType.mini",
+        "storyset": "@:eventType.storyset",
         "operator_data": "干员资料",
-        "archive": "干员档案",
-        "module": "干员模组",
-        "or": "干员密录",
         "search": "搜索",
         "misc": "其他"
+    },
+    "opcard": {
+        "archive": "干员档案",
+        "module": "干员模组",
+        "or": "干员密录"
     },
     "settings": {
         "setting": "设置",
