@@ -1,9 +1,10 @@
 {
     "header": {
         "server": "サーバー",
-        "warp": "ストーリーに移動..."
+        "warp": "ストーリーに移動...",
+        "openInGoogleTL": "Google翻訳で開く"
     },
-    "eventType":{
+    "eventType": {
         "main": "メインテーマ",
         "maintheme": "メインテーマ",
         "intermezzi": "エピソード",
@@ -26,7 +27,7 @@
         "search": "検索",
         "misc": "その他"
     },
-    "opcard":{
+    "opcard": {
         "archive": "オペレーター档案",
         "module": "オペレーターモジュール",
         "or": "回想秘録"
@@ -70,7 +71,5 @@
         "loadDialog": "ダイアログを読み込む",
         "unfold": "展開する",
         "fold": "たたむ"
-    },
-    "misc": {
     }
 }
