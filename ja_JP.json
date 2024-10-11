@@ -53,8 +53,8 @@
         "showIntro": "あらすじを表示する",
         "openInNew": "新しいタブで開く",
         "startTime": "開始時間",
-        "timeasc": "時間昇順",
-        "timedesc": "時間降順",
+        "timeasc": "開始時期昇順",
+        "timedesc": "開始時期降順",
         "openInGoogleTL": "Google翻訳で開く"
     },
     "contentpage": {
