@@ -49,7 +49,9 @@
         "bg_off": "关闭",
         "fontsize": "字体大小",
         "margin": "行距",
-        "save": "应用设置"
+        "save": "应用设置",
+        "altLang": "第二显示语言 (Beta)",
+        "none": "无"
     },
     "eventpage": {
         "menu": "目录",
@@ -63,7 +65,10 @@
     },
     "contentpage": {
         "optionTraceDisabled": "由于技术问题，选项跟踪在该故事已被禁用",
-        "copied": "已复制该行链接！"
+        "copied": "已复制该行链接！",
+        "altLangLoadFail": "无法加载第二显示语言数据，已跳过。",
+        "dataLoadFail": "无法加载故事数据",
+        "dataLoadFailDesc": "该故事可能未在此服务器推出或不存在。如果你确信该故事存在，请提交Bug反馈。"
     },
     "wordCount": {
         "wordCount": " 词",

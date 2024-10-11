@@ -50,7 +50,9 @@
         "bg_off": "Off",
         "fontsize": "Font Size",
         "margin": "Line Spacing",
-        "save": "Apply Setting"
+        "save": "Apply Setting",
+        "altLang": "Alternative Display Language (Beta)",
+        "none": "None"
     },
     "eventpage": {
         "menu": "Menu",
@@ -66,7 +68,10 @@
     },
     "contentpage": {
         "optionTraceDisabled": "Option Tracing Feature is disabled in this story due to technical issues.",
-        "copied": "The link of this line has been copied!"
+        "copied": "The link of this line has been copied!",
+        "altLangLoadFail": "Fail to load alt lang data, skipped.",
+        "dataLoadFail": "Fail to Load Story Data",
+        "dataLoadFailDesc": "This maybe because the story is not availble in this server or the story is not exist. If you sure the story is exist in this server, please summit a issue. "
     },
     "wordCount": {
         "wordCount": " Words ",
