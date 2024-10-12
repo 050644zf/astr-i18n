@@ -28,7 +28,7 @@
         "misc": "その他"
     },
     "opcard": {
-        "archive": "オペレーター档案",
+        "archive": "オペレーター記録",
         "module": "オペレーターモジュール",
         "or": "回想秘録"
     },
@@ -45,7 +45,8 @@
         "bg_off": "オフ",
         "fontsize": "フォントサイズ",
         "margin": "行間",
-        "save": "設定を適用"
+        "save": "設定を適用",
+        "altLang": "別言語の同時表示（ベータ版）"
     },
     "eventpage": {
         "menu": "メニュー",
@@ -53,13 +54,16 @@
         "showIntro": "あらすじを表示する",
         "openInNew": "新しいタブで開く",
         "startTime": "開始時間",
-        "timeasc": "時間昇順",
-        "timedesc": "時間降順",
+        "timeasc": "開始時期昇順",
+        "timedesc": "開始時期降順",
         "openInGoogleTL": "Google翻訳で開く"
     },
     "contentpage": {
         "optionTraceDisabled": "技術的問題により、当ストーリーでは選択肢は正常に機能しません。",
-        "copied": "この行のリンクがコピーされました！"
+        "copied": "この行のリンクがコピーされました！",
+        "altLangLoadFail": "別言語のロードに失敗; スキップします",
+        "dataLoadFail": "ストーリーのロードに失敗",
+        "dataLoadFailDesc": "当該サーバーでストーリーがまだ実装されていないか、そもそも存在しない可能性があります。ストーリーがサーバー上に存在すると確信している場合は、Issueを切ってください。 "
     },
     "wordCount": {
         "wordCount": " 語 ",
@@ -71,5 +75,11 @@
         "loadDialog": "ダイアログを読み込む",
         "unfold": "展開する",
         "fold": "たたむ"
+    },
+    "misc": {
+        "act17side_log": "狂人号・行動記録",
+        "analysis": "各章の総文字数",
+        "isrecords": "統合戦略・月間記録",
+        "act25side_log": "孤星・調査報告"
     }
 }
