@@ -37,7 +37,7 @@
         "search": "搜索",
         "misc": "其他"
     },
-    "homepage":{
+    "homepage": {
         "recommend": {
             "latest": "最新活动",
             "maintheme": "@:eventType.maintheme",
@@ -62,7 +62,7 @@
             "projects": "本项目的实现离不开以下项目的支持："
         },
         "friendly_link": "友情链接",
-        "changelog": "更新日志 (仅英文)"       
+        "changelog": "更新日志 (仅英文)"
     },
     "opcard": {
         "archive": "干员档案",
