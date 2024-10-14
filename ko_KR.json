@@ -54,6 +54,10 @@
         "startTime": "시작 시간",
         "timeasc": "시간 오름차순",
         "timedesc": "시간 내림차순",
+        "wordCount": "@:wordCount.wordCount",
+        "charCount": "@:wordCount.charCount",
+        "length": "@:wordCount.length",
+        "unit": "@:wordCount.unit",
         "openInGoogleTL": "Google 번역에서 열기"
     },
     "contentpage": {

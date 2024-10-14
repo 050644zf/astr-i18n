@@ -56,6 +56,10 @@
         "startTime": "開始時間",
         "timeasc": "開始時期昇順",
         "timedesc": "開始時期降順",
+        "wordCount": "@:wordCount.wordCount",
+        "charCount": "@:wordCount.charCount",
+        "length": "@:wordCount.length",
+        "unit": "@:wordCount.unit",
         "openInGoogleTL": "Google翻訳で開く"
     },
     "contentpage": {

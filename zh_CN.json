@@ -67,6 +67,10 @@
         "startTime": "开始时间",
         "timeasc": "时间升序",
         "timedesc": "时间降序",
+        "wordCount": "@:wordCount.wordCount",
+        "charCount": "@:wordCount.charCount",
+        "length": "@:wordCount.length",
+        "unit": "@:wordCount.unit",
         "openInGoogleTL": "在谷歌翻译中打开"
     },
     "contentpage": {

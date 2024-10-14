@@ -62,6 +62,8 @@
         "startTime": "Start Time",
         "timeasc": "Time Ascending",
         "timedesc": "Time Descending",
+        "wordCount": "@:wordCount.wordCount",
+        "charCount": "@:wordCount.charCount",
         "length": "@:wordCount.length",
         "unit": "@:wordCount.unit",
         "openInGoogleTL": "Open in Google Translate"
