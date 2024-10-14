@@ -1,4 +1,8 @@
 {
+    "common": {
+        "unfold": "Unfold",
+        "fold": "Fold"
+    },
     "header": {
         "server": "Server",
         "en_US": "EN",
@@ -31,6 +35,33 @@
         "operator_data": "Operators' Data",
         "search": "Search",
         "misc": "Misc"
+    },
+    "homepage":{
+        "recommend": {
+            "latest": "Latest Event",
+            "maintheme": "@:eventType.maintheme",
+            "operator_data": "@:menupage.operator_data",
+            "analysis": "@:misc.analysis"
+        },
+        "welcome": "Welcome to Arknights Story Text Reader!",
+        "intro": "Arknights Story Text Reader a.k.a ASTR is a website that aims to providing immersive reading experience for Arknights Stories, provides a variety of unique features like bilingual reading, searching, wordcount, etc.",
+        "issue": "If you have any questions or feedbacks, please submit an issue {0}.",
+        "here": "here",
+        "star": "If you like this project, please give me a star!",
+        "sponsoring": "If you find ASTR helpful, consider buy me a coffee on {0} !",
+        "patreon": "Patreon",
+        "i18n_help": "If you are familiar with the languages listed below, welcome to join the localization project of ASTR!",
+        "progress": "If you want to know about the development progress of ASTR, or want to contribute to ASTR (Much Appreciated🙏), check out {0} for latest development progress.",
+        "roadmap": "ASTR Roadmap",
+        "copyright_claim": "The images and text used in the website are only for better representation of the game data, and their copyright belongs to Shanghai Hypergryph Network Technology Co., Ltd.",
+        "credits": {
+            "credits": "Credits",
+            "contributors": "Thanks to the following contributors for building better ASTR!",
+            "sponsors": "Thanks to the generous support from the following sponsors!",
+            "projects": "The implementation of this project is not without the support of the following projects:"
+        },
+        "friendly_link": "Friendly Links",
+        "changelog": "Changelog (English only)"       
     },
     "opcard":{
         "archive": "Archive",
@@ -83,8 +114,8 @@
     },
     "isrecords": {
         "loadDialog": "Load Dialog",
-        "unfold": "Unfold",
-        "fold": "Fold"
+        "unfold": "@:common.unfold",
+        "fold": "@:common.fold"
     },
     "misc": {
         "extra": "Extra/Hidden Chapters",

@@ -37,6 +37,33 @@
         "search": "搜索",
         "misc": "其他"
     },
+    "homepage":{
+        "recommend": {
+            "latest": "最新活动",
+            "maintheme": "@:eventType.maintheme",
+            "operator_data": "@:menupage.operator_data",
+            "analysis": "@:misc.analysis"
+        },
+        "welcome": "欢迎访问明日方舟剧情文本阅读器 (ASTR)!",
+        "intro": "明日方舟剧情文本阅读器 (ASTR) 是致力于提供沉浸式阅读体验的网站，提供了如双语阅读、搜索、字词统计等独特功能。",
+        "issue": "如果在使用过程中遇到任何问题，或者有改进ASTR的好点子，请在 {0} 提交issue。",
+        "here": "这里",
+        "star": "如果您喜欢本项目，可以考虑给个star资瓷一下。",
+        "sponsoring": "如果您觉得ASTR有帮到您，欢迎通过转账支付宝账户: 050644zf{'@'}outlook.com 或在 {0} 给我买杯咖啡！",
+        "patreon": "Patreon",
+        "i18n_help": "如果您熟悉下方列出的语言，欢迎参与ASTR的本地化工作！",
+        "progress": "如果您想了解ASTR的开发进展，或者想要为ASTR贡献代码（万分感谢🙏），请访问 {0} 查看最新的开发进展。",
+        "roadmap": "ASTR 开发路线图",
+        "copyright_claim": "网站内使用的游戏图片和文本原文，仅用于更好地表现游戏资料，其版权属于上海鹰角网络科技有限公司。",
+        "credits": {
+            "credits": "致谢",
+            "contributors": "感谢以下贡献者对ASTR的鼎力支持！",
+            "sponsors": "感谢以下赞助者的大力支持！",
+            "projects": "本项目的实现离不开以下项目的支持："
+        },
+        "friendly_link": "友情链接",
+        "changelog": "更新日志 (仅英文)"       
+    },
     "opcard": {
         "archive": "干员档案",
         "module": "干员模组",
