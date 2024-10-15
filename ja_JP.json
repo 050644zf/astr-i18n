@@ -73,7 +73,7 @@
         "copied": "この行のリンクがコピーされました！",
         "altLangLoadFail": "別言語のロードに失敗。スキップします。",
         "dataLoadFail": "ストーリーのロードに失敗",
-        "dataLoadFailDesc": "当該サーバーでストーリーがまだ実装されていないか、そもそも存在しない可能性があります。ストーリーがサーバー上に存在すると確信している場合は、Issueを切ってください。 "
+        "dataLoadFailDesc": "当該サーバーでストーリーがまだ実装されていないか、そもそも存在しない可能性があります。ストーリーがサーバー上に存在すると確信している場合は、Issueを送信してください。 "
     },
     "wordCount": {
         "wordCount": " 語 ",
@@ -90,14 +90,16 @@
         "act17side_log": "狂人号・行動記録",
         "analysis": "各章の総文字数",
         "isrecords": "統合戦略・月間記録",
-        "act25side_log": "孤星・調査報告"
+        "act25side_log": "孤星・調査報告",
+        "annual_report": "Arknights Annual Report (CNサーバーのみ)",
+        "stats": "Arknights Journey Review (CNサーバーのみ)"
     },
     "common": {
         "fold": "折りたたむ",
         "unfold": "展開する"
     },
     "homepage": {
-        "sponsoring": "ASTRが役に立ったら、{0}でコーヒーを買うことを検討してください！",
+        "sponsoring": "ASTRが便利だと感じたら、ぜひ{0}で支援してください！",
         "patreon": "Patreon",
         "credits": {
             "projects": "このプロジェクトの実現は、以下のプロジェクトの支援がなければできません。",
