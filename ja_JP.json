@@ -2,7 +2,8 @@
     "header": {
         "server": "サーバー",
         "warp": "ストーリーに移動...",
-        "openInGoogleTL": "Google翻訳で開く"
+        "openInGoogleTL": "Google翻訳で開く",
+        "en_US": "EN"
     },
     "eventType": {
         "main": "メインテーマ",
@@ -46,7 +47,8 @@
         "fontsize": "フォントサイズ",
         "margin": "行間",
         "save": "設定を適用",
-        "altLang": "別言語の同時表示（ベータ版）"
+        "altLang": "別言語の同時表示（ベータ版）",
+        "none": "なし"
     },
     "eventpage": {
         "menu": "メニュー",
@@ -85,5 +87,33 @@
         "analysis": "各章の総文字数",
         "isrecords": "統合戦略・月間記録",
         "act25side_log": "孤星・調査報告"
+    },
+    "common": {
+        "fold": "折りたたむ",
+        "unfold": "展開"
+    },
+    "homepage": {
+        "sponsoring": "ASTRが役に立ったら、{0}でコーヒーを買うことを検討してください！",
+        "patreon": "Patreon",
+        "credits": {
+            "projects": "このプロジェクトの実現は、以下のプロジェクトの支援がなければできません。",
+            "credits": "クレジット",
+            "sponsors": "以下のスポンサーからの寛大な支援に感謝します！",
+            "contributors": "より良いASTRを作ってくれた以下のコントリビューターに感謝します！"
+        },
+        "friendly_link": "フレンドリーリンク",
+        "intro": "Arknights Story Text Viewer (ASTR) はアークナイツの物語に没入型リーディング体験を提供することを目的とした、バイリンガルリーディング、検索、文字数カウントなどといった様々な独自の機能を提供するウェブサイトです。",
+        "star": "このプロジェクトを気に入ったら、スターを押してください！",
+        "roadmap": "ASTRのロードマップ",
+        "copyright_claim": "このウェブサイトで使用されている画像や文章はゲームデータのより良い表現をするためだけのもので、これらの著作権はShanghai Hypergryph Network Technology Co., Ltd.に帰属します。",
+        "i18n_help": "あなたが以下にリストされている言語に精通しているなら、ASTRの地域化プロジェクトに歓迎します！",
+        "progress": "ASTR開発の進捗について知りたかったり、ASTRに貢献したければ (大変嬉しいです🙏)、{0}から最新の開発の進捗を確認してください。",
+        "welcome": "Arknights Story Text Viewerへようこそ！",
+        "recommend": {
+            "latest": "最新のイベント"
+        },
+        "issue": "質問やフィードバックがあれば、issueを{0}に送信してください。",
+        "here": "ここ",
+        "changelog": "変更記録 (英語のみ)"
     }
 }
