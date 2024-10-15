@@ -3,7 +3,11 @@
         "server": "サーバー",
         "warp": "ストーリーに移動...",
         "openInGoogleTL": "Google翻訳で開く",
-        "en_US": "EN"
+        "en_US": "EN",
+        "ja_JP": "JP",
+        "zh_TW": "TW",
+        "zh_CN": "CN",
+        "ko_KR": "KR"
     },
     "eventType": {
         "main": "メインテーマ",
@@ -67,7 +71,7 @@
     "contentpage": {
         "optionTraceDisabled": "技術的問題により、当ストーリーでは選択肢は正常に機能しません。",
         "copied": "この行のリンクがコピーされました！",
-        "altLangLoadFail": "別言語のロードに失敗; スキップします",
+        "altLangLoadFail": "別言語のロードに失敗。スキップします。",
         "dataLoadFail": "ストーリーのロードに失敗",
         "dataLoadFailDesc": "当該サーバーでストーリーがまだ実装されていないか、そもそも存在しない可能性があります。ストーリーがサーバー上に存在すると確信している場合は、Issueを切ってください。 "
     },
@@ -79,8 +83,8 @@
     },
     "isrecords": {
         "loadDialog": "ダイアログを読み込む",
-        "unfold": "展開する",
-        "fold": "たたむ"
+        "unfold": "@:common.unfold",
+        "fold": "@:common.fold"
     },
     "misc": {
         "act17side_log": "狂人号・行動記録",
@@ -90,7 +94,7 @@
     },
     "common": {
         "fold": "折りたたむ",
-        "unfold": "展開"
+        "unfold": "展開する"
     },
     "homepage": {
         "sponsoring": "ASTRが役に立ったら、{0}でコーヒーを買うことを検討してください！",
@@ -110,7 +114,10 @@
         "progress": "ASTR開発の進捗について知りたかったり、ASTRに貢献したければ (大変嬉しいです🙏)、{0}から最新の開発の進捗を確認してください。",
         "welcome": "Arknights Story Text Viewerへようこそ！",
         "recommend": {
-            "latest": "最新のイベント"
+            "latest": "最新のイベント",
+            "maintheme": "@:eventType.maintheme",
+            "analysis": "@:misc.analysis",
+            "operator_data": "@:menupage.operator_data"
         },
         "issue": "質問やフィードバックがあれば、issueを{0}に送信してください。",
         "here": "ここ",
