@@ -1,7 +1,13 @@
 {
     "header": {
         "server": "서버",
-        "warp": "스토리로 이동..."
+        "warp": "스토리로 이동...",
+        "en_US": "EN",
+        "ja_JP": "JP",
+        "zh_CN": "CN",
+        "zh_TW": "TW",
+        "openInGoogleTL": "Google 번역에서 열기",
+        "ko_KR": "KR"
     },
     "eventType": {
         "main": "메인",
@@ -72,8 +78,8 @@
     },
     "isrecords": {
         "loadDialog": "이야기 불러오기",
-        "unfold": "펴기",
-        "fold": "접기"
+        "unfold": "@:common.unfold",
+        "fold": "@:common.fold"
     },
     "misc": {
         "extra": "Extra/Hidden Chapters",
@@ -83,5 +89,21 @@
         "act17side_log": "Stultifera Navis Operation Log",
         "act25side_log": "Lone Trail Investigation Report",
         "annual_report": "Arknights Annual Report (CN Server Only)"
+    },
+    "common": {
+        "unfold": "펼치기",
+        "fold": "접기"
+    },
+    "homepage": {
+        "recommend": {
+            "latest": "최근 이벤트",
+            "operator_data": "@:menupage.operator_data",
+            "maintheme": "@:eventType.maintheme",
+            "analysis": "@:misc.analysis"
+        },
+        "welcome": "Arknights Story Text Reader에 오신 것을 환영합니다!",
+        "intro": "Arknights Story Text Reader(ASTR)는 명일방주의 스토리를 간편하게 읽을 수 있도록 하는 목적의 웹사이트로, 다중 언어 표시, 검색, 글자 수 표시 등의 고유 기능 또한 제공하고 있습니다.",
+        "here": "이곳",
+        "issue": "질문이나 건의사항이 있다면 {0}에 작성해 주세요."
     }
 }
