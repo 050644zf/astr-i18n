@@ -97,7 +97,10 @@
         "charCount": "@:wordCount.charCount",
         "length": "@:wordCount.length",
         "unit": "@:wordCount.unit",
-        "openInGoogleTL": "Open in Google Translate"
+        "openInGoogleTL": "Open in Google Translate",
+        "export":{
+            "warning": "The export feature in ASTR Webpage isn't under well maintainance, we recommend you use the github codespace version to get better result:"
+        }
     },
     "contentpage": {
         "optionTraceDisabled": "Option Tracing Feature is disabled in this story due to technical issues.",

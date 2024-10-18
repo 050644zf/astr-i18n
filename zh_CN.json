@@ -98,7 +98,10 @@
         "charCount": "@:wordCount.charCount",
         "length": "@:wordCount.length",
         "unit": "@:wordCount.unit",
-        "openInGoogleTL": "在谷歌翻译中打开"
+        "openInGoogleTL": "在谷歌翻译中打开",
+        "export":{
+            "warning": "ASTR网页版的导出功能缺乏良好的维护，我们建议您使用Github Codespace得到更好的导出结果："
+        }
     },
     "contentpage": {
         "optionTraceDisabled": "由于技术问题，选项跟踪在该故事已被禁用",
