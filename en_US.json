@@ -57,6 +57,7 @@
         "credits": {
             "credits": "Credits",
             "contributors": "Thanks to the following contributors for building better ASTR!",
+            "translators": "Thanks to the following translators for shipping ASTR to more languages!",
             "sponsors": "Thanks to the generous support from the following sponsors!",
             "projects": "The implementation of this project is not without the support of the following projects:"
         },

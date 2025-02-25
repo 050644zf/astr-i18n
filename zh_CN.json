@@ -58,6 +58,7 @@
         "credits": {
             "credits": "致谢",
             "contributors": "感谢以下贡献者对ASTR的鼎力支持！",
+            "translators": "感谢以下翻译者将ASTR推广到更多的语言！",
             "sponsors": "感谢以下赞助者的大力支持！",
             "projects": "本项目的实现离不开以下项目的支持："
         },
