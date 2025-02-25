@@ -99,7 +99,7 @@
         "length": "@:wordCount.length",
         "unit": "@:wordCount.unit",
         "openInGoogleTL": "在谷歌翻译中打开",
-        "export":{
+        "export": {
             "warning": "ASTR网页版的导出功能缺乏良好的维护，我们建议您使用Github Codespace得到更好的导出结果："
         }
     },
@@ -129,5 +129,9 @@
         "act17side_log": "愚人号行动日志",
         "act25side_log": "孤星调查报告",
         "annual_report": "明日方舟年度工作报告（仅支持CN服）"
+    },
+    "common": {
+        "unfold": "展开",
+        "fold": "折叠"
     }
 }

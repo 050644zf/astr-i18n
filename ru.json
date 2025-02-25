@@ -1,0 +1,132 @@
+{
+    "common": {
+        "unfold": "",
+        "fold": ""
+    },
+    "header": {
+        "server": "",
+        "en_US": "",
+        "ja_JP": "",
+        "zh_CN": "",
+        "zh_TW": "",
+        "ko_KR": "",
+        "warp": "",
+        "openInGoogleTL": ""
+    },
+    "eventType": {
+        "main": "",
+        "maintheme": "",
+        "intermezzi": "",
+        "ss": "",
+        "sidestory": "",
+        "mini": "",
+        "storyset": "",
+        "or": ""
+    },
+    "menupage": {
+        "homepage": "",
+        "main": "",
+        "maintheme": "",
+        "intermezzi": "",
+        "ss": "",
+        "sidestory": "",
+        "mini": "",
+        "storyset": "",
+        "operator_data": "",
+        "search": "",
+        "misc": ""
+    },
+    "homepage": {
+        "recommend": {
+            "latest": "",
+            "maintheme": "",
+            "operator_data": "",
+            "analysis": ""
+        },
+        "welcome": "",
+        "intro": "",
+        "issue": "",
+        "here": "",
+        "star": "",
+        "sponsoring": "",
+        "patreon": "",
+        "i18n_help": "",
+        "progress": "",
+        "roadmap": "",
+        "copyright_claim": "",
+        "credits": {
+            "credits": "",
+            "contributors": "",
+            "sponsors": "",
+            "projects": ""
+        },
+        "friendly_link": "",
+        "changelog": ""
+    },
+    "opcard": {
+        "archive": "",
+        "module": "",
+        "or": ""
+    },
+    "settings": {
+        "setting": "",
+        "currentLang": "",
+        "clear": "",
+        "dr": "",
+        "showDelay": "",
+        "mirror": "",
+        "showbg": "",
+        "bg_full": "",
+        "bg_stripe": "",
+        "bg_off": "",
+        "fontsize": "",
+        "margin": "",
+        "save": "",
+        "altLang": "",
+        "none": ""
+    },
+    "eventpage": {
+        "menu": "",
+        "export2excel": "",
+        "showIntro": "",
+        "openInNew": "",
+        "startTime": "",
+        "timeasc": "",
+        "timedesc": "",
+        "wordCount": "",
+        "charCount": "",
+        "length": "",
+        "unit": "",
+        "openInGoogleTL": "",
+        "export": {
+            "warning": ""
+        }
+    },
+    "contentpage": {
+        "optionTraceDisabled": "",
+        "copied": "",
+        "altLangLoadFail": "",
+        "dataLoadFail": "",
+        "dataLoadFailDesc": ""
+    },
+    "wordCount": {
+        "wordCount": "",
+        "charCount": "",
+        "length": "",
+        "unit": ""
+    },
+    "isrecords": {
+        "loadDialog": "",
+        "unfold": "",
+        "fold": ""
+    },
+    "misc": {
+        "extra": "",
+        "analysis": "",
+        "stats": "",
+        "isrecords": "",
+        "act17side_log": "",
+        "act25side_log": "",
+        "annual_report": ""
+    }
+}
