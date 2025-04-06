@@ -34,7 +34,10 @@
         "storyset": "@:eventType.storyset",
         "operator_data": "Operators' Data",
         "search": "Search",
-        "misc": "Misc"
+        "misc": "Misc",
+        "music_score": "Music Score",
+        "calendar": "Opening Time",
+        "storyline": "Music Score"
     },
     "homepage":{
         "recommend": {

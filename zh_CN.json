@@ -35,7 +35,10 @@
         "storyset": "@:eventType.storyset",
         "operator_data": "干员资料",
         "search": "搜索",
-        "misc": "其他"
+        "misc": "其他",
+        "music_score": "曲谱",
+        "calendar": "开启时间",
+        "storyline": "乐章"
     },
     "homepage": {
         "recommend": {
