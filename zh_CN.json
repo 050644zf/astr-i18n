@@ -44,6 +44,7 @@
         "recommend": {
             "latest": "最新活动",
             "maintheme": "@:eventType.maintheme",
+            "music_score": "@:menupage.music_score",
             "operator_data": "@:menupage.operator_data",
             "analysis": "@:misc.analysis"
         },

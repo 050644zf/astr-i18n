@@ -43,6 +43,7 @@
         "recommend": {
             "latest": "Latest Event",
             "maintheme": "@:eventType.maintheme",
+            "music_score": "@:menupage.music_score",
             "operator_data": "@:menupage.operator_data",
             "analysis": "@:misc.analysis"
         },
