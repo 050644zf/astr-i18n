@@ -11,7 +11,8 @@
         "zh_TW": "TW",
         "ko_KR": "KR",
         "warp": "Warp to Story...",
-        "openInGoogleTL": "Open in Google Translate"
+        "openInGoogleTL": "Open in Google Translate",
+        "ru": "RU"
     },
     "eventType":{
         "main": "Main Theme",
