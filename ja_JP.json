@@ -124,7 +124,8 @@
             "latest": "最新のイベント",
             "maintheme": "@:eventType.maintheme",
             "analysis": "@:misc.analysis",
-            "operator_data": "@:menupage.operator_data"
+            "operator_data": "@:menupage.operator_data",
+            "music_score": "@:menupage.music_score"
         },
         "issue": "質問やフィードバックがあれば、issueを{0}に送信してください。",
         "here": "ここ",

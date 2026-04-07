@@ -1,132 +1,137 @@
 {
     "common": {
-        "unfold": "",
-        "fold": ""
+        "unfold": "Развернуть",
+        "fold": "Сгибать"
     },
     "header": {
-        "server": "",
-        "en_US": "",
-        "ja_JP": "",
-        "zh_CN": "",
-        "zh_TW": "",
-        "ko_KR": "",
-        "warp": "",
-        "openInGoogleTL": ""
+        "server": "Сервер",
+        "en_US": "англ",
+        "ja_JP": "Япон",
+        "zh_CN": "Китайский",
+        "zh_TW": "Тайванский",
+        "ko_KR": "Корейский",
+        "warp": "Переход к истории...",
+        "openInGoogleTL": "Открыть в Google Translate"
     },
     "eventType": {
-        "main": "",
-        "maintheme": "",
-        "intermezzi": "",
-        "ss": "",
-        "sidestory": "",
-        "mini": "",
-        "storyset": "",
-        "or": ""
+        "main": "Основная Тема",
+        "maintheme": "Основная тема",
+        "intermezzi": "Интермеццо",
+        "ss": "Дополнительная История",
+        "sidestory": "Дополнительная история",
+        "mini": "Коллекция Рассказов",
+        "storyset": "Сюжетный набор",
+        "or": "Записи"
     },
     "menupage": {
-        "homepage": "",
-        "main": "",
-        "maintheme": "",
-        "intermezzi": "",
-        "ss": "",
-        "sidestory": "",
-        "mini": "",
-        "storyset": "",
-        "operator_data": "",
-        "search": "",
-        "misc": ""
+        "homepage": "Домашняя страница",
+        "main": "@:eventType.main",
+        "maintheme": "@:eventType.maintheme",
+        "intermezzi": "@:eventType.intermezzi",
+        "ss": "@:eventType.ss",
+        "sidestory": "@:eventType.sidestory",
+        "mini": "@:eventType.mini",
+        "storyset": "@:eventType.storyset",
+        "operator_data": "Данные операторов",
+        "search": "Поиск",
+        "misc": "Разное",
+        "music_score": "Музыкальное сопровождение",
+        "calendar": "Время открытия",
+        "storyline": "музыкальное сопровождение"
     },
     "homepage": {
         "recommend": {
-            "latest": "",
-            "maintheme": "",
-            "operator_data": "",
-            "analysis": ""
+            "latest": "Последнее событие",
+            "maintheme": "@:eventType.maintheme",
+            "operator_data": "@:menupage.operator_data",
+            "analysis": "@:misc.analysis",
+            "music_score": "@:menupage.music_score"
         },
-        "welcome": "",
-        "intro": "",
-        "issue": "",
-        "here": "",
-        "star": "",
-        "sponsoring": "",
-        "patreon": "",
-        "i18n_help": "",
-        "progress": "",
-        "roadmap": "",
-        "copyright_claim": "",
+        "welcome": "Добро пожаловать в Arknights Story Text Reader!",
+        "intro": "Arknights Story Text Reader (ASTR) — это веб-сайт, созданный для погружения в истории Arknights. Он предлагает уникальные функции, такие как двуязычное чтение, поиск по текстам, подсчёт слов и многое другое.",
+        "issue": "Если у вас есть какие-либо вопросы или отзывы, пожалуйста, отправьте сообщение о проблеме {0}.",
+        "here": "здесь",
+        "star": "Если вам понравился этот проект, пожалуйста, поставьте мне звездочку!",
+        "sponsoring": "Если вы сочтете ASTR полезным, подумайте о том, чтобы угостить меня кофе на {0} !",
+        "patreon": "Патреон",
+        "i18n_help": "Если вы знакомы с перечисленными ниже языками, добро пожаловать в проект по локализации ASTR!",
+        "progress": "Если вы хотите узнать о ходе разработки ASTRA или хотите внести свой вклад в FASTER (мы вам очень благодарны!), ознакомьтесь с последними новостями о ходе разработки на странице {0}.",
+        "roadmap": "Дорожная карта ASTRO",
+        "copyright_claim": "Изображения и тексты, используемые на этом сайте, служат исключительно для наглядного представления игровых данных. Все авторские права принадлежат компании Shanghai Hypergryph Network Technology Co., Ltd.",
         "credits": {
-            "credits": "",
-            "contributors": "",
-            "sponsors": "",
-            "projects": ""
+            "credits": "Титры",
+            "contributors": "Благодарим следующих участников за создание лучшего ASTR!",
+            "sponsors": "Спасибо за щедрую поддержку от следующих спонсоров!",
+            "projects": "Реализация этого проекта не обходится без поддержки следующих проектов:",
+            "translators": "Благодарим следующих переводчиков за перевод ASTR на большее количество языков!"
         },
-        "friendly_link": "",
-        "changelog": ""
+        "friendly_link": "Рекомендуемые ссылки",
+        "changelog": "Список изменений (только на английском языке)"
     },
     "opcard": {
-        "archive": "",
-        "module": "",
-        "or": ""
+        "archive": "Архив",
+        "module": "Модуль",
+        "or": "Записи"
     },
     "settings": {
-        "setting": "",
-        "currentLang": "",
-        "clear": "",
-        "dr": "",
-        "showDelay": "",
-        "mirror": "",
-        "showbg": "",
-        "bg_full": "",
-        "bg_stripe": "",
-        "bg_off": "",
-        "fontsize": "",
-        "margin": "",
-        "save": "",
-        "altLang": "",
-        "none": ""
+        "setting": "Настройки",
+        "currentLang": "Язык интерфейса",
+        "clear": "Сбросить Все Настройки",
+        "dr": "Имя врача",
+        "showDelay": "Показывать пустую разделительную линию",
+        "mirror": "Использовать зеркальные ресурсы (бета-версия)",
+        "showbg": "Показать предысторию",
+        "bg_full": "Полноценный",
+        "bg_stripe": "Полоса",
+        "bg_off": "Выключить",
+        "fontsize": "Размер Шрифта",
+        "margin": "Межстрочный интервал",
+        "save": "Применить изменения",
+        "altLang": "Альтернативный язык отображения (бета-версия)",
+        "none": "Нет"
     },
     "eventpage": {
-        "menu": "",
-        "export2excel": "",
-        "showIntro": "",
-        "openInNew": "",
-        "startTime": "",
-        "timeasc": "",
-        "timedesc": "",
-        "wordCount": "",
-        "charCount": "",
-        "length": "",
-        "unit": "",
-        "openInGoogleTL": "",
+        "menu": "Меню",
+        "export2excel": "Экспорт в Excel",
+        "showIntro": "Вступление к шоу",
+        "openInNew": "Открыть в новой вкладке",
+        "startTime": "Время начала",
+        "timeasc": "Время нарастает",
+        "timedesc": "Время убывает",
+        "wordCount": "@:wordCount.wordCount",
+        "charCount": "@:wordCount.charCount",
+        "length": "@:wordCount.length",
+        "unit": "@:wordCount.unit",
+        "openInGoogleTL": "Открыть в Google Translate",
         "export": {
-            "warning": ""
+            "warning": "Функция экспорта на веб-странице ASTR не поддерживается должным образом, мы рекомендуем вам использовать версию github code space для получения лучшего результата:"
         }
     },
     "contentpage": {
-        "optionTraceDisabled": "",
-        "copied": "",
-        "altLangLoadFail": "",
-        "dataLoadFail": "",
-        "dataLoadFailDesc": ""
+        "optionTraceDisabled": "Функция отслеживания параметров в этой истории отключена из-за технических неполадок.",
+        "copied": "Ссылка из этой строки была скопирована!",
+        "altLangLoadFail": "Не удалось загрузить данные alt lang, пропущено.",
+        "dataLoadFail": "Не удается загрузить данные истории",
+        "dataLoadFailDesc": "Возможно, это связано с тем, что история недоступна на этом сервере или не существует. Если вы уверены, что история существует на этом сервере, пожалуйста, сообщите о проблеме. "
     },
     "wordCount": {
-        "wordCount": "",
-        "charCount": "",
-        "length": "",
-        "unit": ""
+        "wordCount": " Слова ",
+        "charCount": " Персонажи ",
+        "length": "Длина ",
+        "unit": " Единица измерения "
     },
     "isrecords": {
-        "loadDialog": "",
-        "unfold": "",
-        "fold": ""
+        "loadDialog": "Загрузка диалога",
+        "unfold": "@:common.unfold",
+        "fold": "@:common.fold"
     },
     "misc": {
-        "extra": "",
-        "analysis": "",
-        "stats": "",
-        "isrecords": "",
-        "act17side_log": "",
-        "act25side_log": "",
-        "annual_report": ""
+        "extra": "Дополнительные/Скрытые главы",
+        "analysis": "Количество слов/Символов в главах",
+        "stats": "Обзор путешествия Airknight (только на сервере CN)",
+        "isrecords": "Ежемесячные отчеты по стратегиям",
+        "act17side_log": "Журнал операций Stultifera Navis",
+        "act25side_log": "Отчет о расследовании \"Одинокого следа\"",
+        "annual_report": "Годовой отчет Airknight (только для сервера CN)"
     }
 }
