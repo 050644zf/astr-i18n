@@ -12,7 +12,8 @@
         "ko_KR": "韩语",
         "ja_JP": "日语",
         "openInGoogleTL": "在谷歌翻译中打开",
-        "zh_TW": "繁体中文"
+        "zh_TW": "繁体中文",
+        "ru": "俄语"
     },
     "eventType": {
         "main": "主题曲",
