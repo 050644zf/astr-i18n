@@ -31,7 +31,10 @@
         "storyset": "@:eventType.storyset",
         "operator_data": "オペレーター情報",
         "search": "検索",
-        "misc": "その他"
+        "misc": "その他",
+        "music_score": "楽譜",
+        "calendar": "開放時間",
+        "storyline": "楽章"
     },
     "opcard": {
         "archive": "オペレーター記録",
